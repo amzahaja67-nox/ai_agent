@@ -1,0 +1,6 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+pywin32
+comtypes
+pyautogui
